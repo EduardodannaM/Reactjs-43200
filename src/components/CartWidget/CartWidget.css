@@ -1,0 +1,6 @@
+.container-cart {
+    box-sizing: border-box;
+  }
+  .bubble-counter {
+    box-sizing: content-box;
+  }
